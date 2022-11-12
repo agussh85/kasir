@@ -1,0 +1,21 @@
+USER
+-----------------------------
+username : user
+pass : 1234
+
+
+
+PUBLISHER
+-----------------------------
+username : publish@data.com
+pass : 1234
+
+
+ADMINISTRATOR
+-----------------------------
+username : admin
+pass : 1234
+
+untuk admin pakai link
+kalau localhost
+http://127.0.0.1:8000/admin
